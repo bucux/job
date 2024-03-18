@@ -1,0 +1,9 @@
+
+.jobs-cont1{
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  margin: auto;
+  gap: 20px;
+}
+

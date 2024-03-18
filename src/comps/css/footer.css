@@ -1,0 +1,8 @@
+
+#footer-cont1{
+  background-color: rgb(205, 205, 205);
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
